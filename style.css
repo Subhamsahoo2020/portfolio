@@ -1,0 +1,12 @@
+#border{
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    border: 2px solid rgb(12, 12, 14);
+    border-radius: 10%;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: rgb(10, 10, 12);
+}
+
